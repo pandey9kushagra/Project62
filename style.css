@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+
+}
+
+.line{
+    height: 6px;
+    width: 100px;
+    background-color: black;
+    margin:8px auto;
+} 
+
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
+
+#apps{
+    background-color: blanchedalmond;
+}
+
+#games{
+
+    background-color: cadetblue;
+}
+
+#chatbot{
+    background-color: peachpuff;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    margin-right: 10pxbb;
+}
+
+#mygames{
+    background-color: brown;
+}
+
+.carousel-inner p{
+    color: azure;
+    font-size: 35px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
